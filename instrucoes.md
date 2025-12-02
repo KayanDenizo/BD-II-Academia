@@ -1,0 +1,1 @@
+Com base nas imagens anexas, crie o script do banco de dados da academia, depois rode no sgbd para criar o banco com as tabelas
